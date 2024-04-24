@@ -1,11 +1,11 @@
 - name: About
-  link: /pages/About/
+  link: /pages/About
 - name: Data
-  link: /pages/Data_description/
+  link: /pages/Data_description
   dropdown:
     - name: Description
-      link: /pages/Data_description/
+      link: /pages/Data_description
     - name: Download
-      link: /pages/Data_download/
+      link: /pages/Data_download
 - name: Organizing Team
-  link: /pages/Organizing/
+  link: /pages/Organizing
