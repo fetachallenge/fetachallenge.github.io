@@ -30,8 +30,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+<<<<<<< HEAD
 theme: bulma-clean-theme
 # remote_theme: chrisrhymes/bulma-clean-theme
+=======
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
