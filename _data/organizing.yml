@@ -1,4 +1,5 @@
-- title: Image Gallery Title
+- title: This challenge is organized by the following people
+
   images:
     - link: https://via.placeholder.com/400x225
       large_link: https://via.placeholder.com/1200x675
@@ -23,16 +24,35 @@
         * Item 1
         * Item 2
       ratio: is-4by3
-
 - title: Second Image Gallery Title
   images:
-    - link: https://via.placeholder.com/800x450
+    - link: /images/bran3.jpg
       alt: The alt text for the image
-      description: The image description
-    - link: https://via.placeholder.com/800x450
+      description: |-
+        **Hongwei (Bran) Li**, Martinos center, Massachusetts General Hospital, Harvard Medical School
+      ratio: is-5by7
+    - link: /images/bran3.jpg
       alt: The alt text for the image
-      description: The image description
-    - link: https://via.placeholder.com/800x450
+      description: |-
+        **Hongwei (Bran) Li**, Martinos center, Massachusetts General Hospital, Harvard Medical School
+      ratio: is-5by7
+    - link: /images/bran3.jpg
       alt: The alt text for the image
       description: |-
         The *image* **description**
+      ratio: is-5by7
+    - link: /images/bran3.jpg
+      alt: The alt text for the image
+      description: |-
+        **Hongwei (Bran) Li**, Martinos center, Massachusetts General Hospital, Harvard Medical School
+      ratio: is-5by7
+    - link: /images/bran3.jpg
+      alt: The alt text for the image
+      description: |-
+        **Hongwei (Bran) Li**, Martinos center, Massachusetts General Hospital, Harvard Medical School
+      ratio: is-5by7
+    - link: /images/bran3.jpg
+      alt: The alt text for the image
+      description: |-
+        The *image* **description**
+      ratio: is-5by7

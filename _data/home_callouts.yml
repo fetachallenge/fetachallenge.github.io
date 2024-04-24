@@ -1,0 +1,14 @@
+style: is-light
+items:
+  - title: New Biometry Task
+    subtitle: A new clinically relevant task on automated biometry measurements
+    icon: fa-copy
+
+  - title: Domain Generalization Ability
+    subtitle: Data from five different sites
+    icon: fa-mail-bulk
+
+  - title: Low-field systems
+    subtitle: Data from magnetic fields including recent low-field systems
+    icon: fa-github
+    icon_brand: true

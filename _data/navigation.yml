@@ -1,5 +1,7 @@
+
 - name: About
   link: /pages/About
+
 - name: Data
   link: /pages/Data_description
   dropdown:
@@ -7,5 +9,34 @@
       link: /pages/Data_description
     - name: Download
       link: /pages/Data_download
+
+- name: Evaluation
+  link: /pages/Evaluation
+
+- name: Submission
+  link: /pages/Submission_instruction
+  dropdown:
+    - name: Docker
+      link: /pages/Submission_instruction
+    - name: Algorithm Description
+      link: /pages/Algorithm
+
+- name: Program
+  link: /pages/Program
+
+- name: Previous Challenges
+  link: /pages/Previous
+  dropdown:
+    - name: FeTA 2022
+      link: https://feta.grand-challenge.org/feta-2022/
+    - name: FeTA 2021
+      link: https://feta.grand-challenge.org/feta-2021/
+
 - name: Organizing Team
   link: /pages/Organizing
+
+- name: Faqs
+  link: /pages/Faqs
+
+- name: Contact
+  link: /pages/Contact
