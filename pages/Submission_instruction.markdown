@@ -4,7 +4,7 @@ title: Docker Submission
 subtitle: Building Your Docker Container
 menubar: home_menu
 show_sidebar: false
-hero_image: /images/Feta_2024_2.png
+hero_image: /images/BannerFETA.png
 ---
 
 {% include notification.html
