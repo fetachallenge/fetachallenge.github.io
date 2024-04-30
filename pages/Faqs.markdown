@@ -13,13 +13,28 @@ status="is-success" %}
 
 ## General questions on the challenge and dataset
 
+* What's new about FetA Challenge 2024 compared to previous editions?
+
+In FeTA 2024 we aim to improve and extend the established FeTA Challenge in two ways: Firstly, we introduce a new task to automatically derive clinically relevant biometry typically used in practice for fetal evaluation. Secondly, following the recent rise in popularity of low-cost low-field MRI systems which aim at democratizing MRI access world-wide, we extend the generalizability assessment of segmentation methods by including low-field (0.55T) MRI data. FeTA 2024 challenge is an important step towards the development of effective, domain-generalizable and reproducible methods for analyzing high resolution reconstructed MR images of the developing fetal brain from gestational week 21-36.
+
+* Where can I find the submitted FeTa challenge proposals for supplementary information?
+
+All challenge proposals are available on Zenodo:
+
+[FetA Challenge 2024](https://zenodo.org/records/10986046)
+
+FetA Challenge 2022 (Not available)
+
+[FetA Challenge 2021](https://zenodo.org/records/6362587)
+
+
 * I found a link for a FeTA Dataset on Zenodo, is that related to the challenge?
 
-There was a version of the FeTA dataset on Zenodo related to a paper that is currently in revision. However, the dataset to be used for the FeTA 2021 challenge is a larger version of the Zenodo dataset with a wider range of gestational ages, pathologies, and super-resolution reconstruction methods. This dataset can be downloaded from Synapse after registering to the challenge and for the Synapse website.
+There was a version of the FeTA dataset on Zenodo related to a paper that is currently in revision. However, the dataset to be used for the FeTA 2024 challenge is a larger version of the Zenodo dataset with a wider range of gestational ages, pathologies, and super-resolution reconstruction methods. This dataset can be downloaded from Synapse after registering to the challenge and for the Synapse website.
 
 * Can I use my own data while creating my segmentation algorithm?
 
-The participants can use publicly available data as desired, but they should document whatever is used in the description of their algorithm. Participants may modify the training data as they wish. Non-public data may not be used, this is for fairness of comparison.
+The participants can use publicly available data as desired, but they should document whatever is used in the description of their algorithm. Participants may modify the training data as they wish as long as everything is documented. Synthetic data should be able to be made available upon request. Non-public data may not be used, this is for fairness of comparison.
 
 * What is the test dataset like?
 
