@@ -56,7 +56,7 @@ The complete dataset for the FeTA 2024 Challenge will be released soon. Instruct
 
 ## Contact information
 
-If there are any questions, please contact us at: feta-challenge@googlegroups.com 
+If there are any questions, please contact us at: [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com) 
 
 ### Acknowledgements
 This challenge was supported by the following funding:
