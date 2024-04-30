@@ -1,70 +1,55 @@
 ---
-title: Fetal Tissue Annotation and Segmentation Challenge (FeTA)
+title: Fetal Tissue Annotation and Segmentation Challenge
 subtitle: MICCAI 2024
 layout: page
 menubar: home_menu
 show_sidebar: false
-hero_image: /images/Feta_2024_2.png
+hero_image: /images/BannerFETA2024.png
 ---
 <!-- 
 callouts: home_callouts
 -->
 
 
-The Fetal Tissue Annotation and Segmentation Challenge (FeTA) is a multi-class, multi-institution image segmentation
- challenge part of [MICCAI 2024](https://conferences.miccai.org/2024/en/). The goal of FeTA is to develop effective, domain-generalizable and reproducible
-  methods for analyzing high resolution reconstructed MR images of the developing fetal brain from gestational week 21-36. The challenge provides manually annotated, super-resolution reconstructed MRI data of human fetal brains which will be used for training and testing automated multi-class image segmentation algorithms.
+The Fetal Tissue Annotation and Segmentation Challenge (FeTA) is a multi-class, multi-institution image segmentation and biometry challenge part of [MICCAI 2024](https://conferences.miccai.org/2024/en/). The goal of FeTA is to **develop effective, domain-generalizable and reproducible methods for analyzing high resolution reconstructed MR images of the developing fetal brain** from gestational week 21-36. The challenge provides manually annotated, super-resolution reconstructed MRI data of human fetal brains which will be used for training and testing **automated multi-class image segmentation and regression biometry measurements algorithms**.
 
-In FeTA 2021, we used the first publicly available dataset of fetal brain MRI to encourage teams to develop automatic brain tissue segmentation algorithms. FeTA 2022 takes it to the next level by launching a multi-center challenge for the development of image segmentation algorithms that will be generalizable to different hospitals with unseen data. This year, FeTA 2024 includes a new clinically relevant task on automated biometry measurements and data from five different sites and magnetic fields including recent low-field systems.
+In [FeTA 2021](https://feta.grand-challenge.org/feta-2021/), we used the [first publicly available dataset](https://www.nature.com/articles/s41597-021-00946-3) of fetal brain MRI to encourage [teams to develop automatic brain tissue segmentation algorithms](https://). [FeTA 2022] (https://feta.grand-challenge.org/feta-2022-top-5-submissions/) takes it to the next level by launching a multi-center challenge for the development of image segmentation algorithms that will be generalizable to different hospitals with unseen data ([paper under review](https://arxiv.org/abs/2402.09463)). 
 
 
+This year, **FeTA 2024 includes** a new clinically relevant task on **automated biometry** measurements and data from five **different sites and magnetic fields** including recent **low-field systems**. We believe, such new algorithms will have the potential to contribute to our understanding of the developing normal and pathological human brain across hospitals and research institutions worldwide.
 
-Such new algorithms will have the potential to contribute to our understanding of the developing normal and pathological human brain across hospitals and research institutions worldwide.
-
-
-
-<div style="text-align:center">
-    <img src="/images/feta.png" alt="feta" style="width:200px;height:auto;">
-</div>
-
-
-## Participation
-To participate in the challenge, please send an email to [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com) with the HEADLINE 'FeTA 2024 Participate'. We will send you the password to download the dataset. 
-
-
-
-## Data Release: 
-
-The complete dataset for the FeTA 2024 Challenge will be released soon. Instructions for downloading the challenge dataset are in  [Data](/pages/Data_description) subsection.  
-
-
-## Program: 
+## Format: 
 
 This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis
  ) workshop. Detailed program for the workshop and challenge will be announced soon on the [Program](/pages/Program) page.
 
-
-
 <div style="text-align:center">
     <a href="https://pippiworkshop.github.io/">
-        <img src="/images/pippi.png" alt="PIPPI" style="width:200px;height:auto;">
+        <img src="/images/JointPIPPI-FETA" alt="JointPIPPIFETA" style="width:200px;height:auto;">
     </a>
 </div>
 
 ## Important Dates:
 
-* Data Release: May 2024
+* Data Release: Mid May 2024
 
-* Docker Submission Deadline: TBD
+* Docker Submission Deadline: End July/Beginning August 2024
 
-* Algorithm Description Deadline:  TBD
+* Algorithm Description Deadline: Mid August 2024
 
-* Notification of Presentations to top teams:  TBD
+* Notification of Presentations to top teams: August 22nd 2024
 
 * FeTA 2024 Challenge Day: 6 Oct 2024
 
-* For more information, please refers to MICCAI 2024 [homepage](https://conferences.miccai.org/2024/en/)
+* Early Bird Registration for MICCAI (more info at [MICCAI homepage](https://conferences.miccai.org/2024/en/)): August 25th
 
+
+## Participation
+To participate in the challenge, please send an email to [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com) with the HEADLINE 'FeTA 2024 Participate'. We will send you the password to download the dataset. 
+
+## Data Release: 
+
+The complete dataset for the FeTA 2024 Challenge will be released soon. Instructions for downloading the challenge dataset are in  [Data](/pages/Data_description) subsection.  
 
 
 ### Acknowledgements
@@ -74,7 +59,7 @@ This challenge was supported by the following funding:
  Development and Learning (AdaBD)" (Andras Jakab)
 * The Novartis Foundation for Medical-Biological Research and the Prof. Max Cloetta Foundation (Andras Jakab)
 * The Swiss National Science Foundation (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977
-) (Meritxell Bach Cuadra).
+) (Margaux Roulet, Vlad Zalevskyi, Thomas Sanchez, Meritxell Bach Cuadra).
 
 
 ### Reference
