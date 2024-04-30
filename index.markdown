@@ -28,6 +28,11 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
         <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:200px;height:auto;">
     </a>
 </div>
+<div style="text-align:center">
+    <a href="https://conferences.miccai.org/2024/en/">
+        <img src="/images/miccai2024-logo.png" alt="MICCAI" style="width:200px;height:auto;">
+    </a>
+</div>
 
 ## Important Dates:
 
