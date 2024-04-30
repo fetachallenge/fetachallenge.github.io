@@ -3,7 +3,7 @@ layout: page
 title: Previous FeTA Challenges
 menubar: home_menu
 show_sidebar: false
-hero_image: /images/Feta_2024_2.png
+hero_image: /images/BannerFETA.png
 ---
 
 You can find our previous challenges here:
