@@ -32,15 +32,14 @@ The testing dataset will consist of 160 cases (40 from each institution). Includ
 
 ### Task 2 - Biometry
 
-For the biometry task, the training data will consist of biometric measurements done on the same 120 T2-weighted fetal brain reconstructions as above. There are five different measurements, done following the protocol available [here](https://unils-my.sharepoint.com/:b:/g/personal/meritxell_bachcuadra_unil_ch/ERBHllIq6lJFguOyxB299r0BktZpymzvVr7SvWAwvflQ-A?e=BSsolN):
+For the biometry task, the training data will consist of biometric measurements done on the same 120 subjects included in the segmentation task above. There are five different biometry measurements, done following the annotation protocol available [here](https://unils-my.sharepoint.com/:b:/g/personal/meritxell_bachcuadra_unil_ch/ERBHllIq6lJFguOyxB299r0BktZpymzvVr7SvWAwvflQ-A?e=BSsolN):
 1. Brain biparietal diameter (bBIP) in the axial plane
 2. Skull biparietal diameter (sBIP) in the axial plane
 3. Height of the vermis (HV) in the sagittal plane
 4. Length of the corpus callosum (LCC) in the sagittal plane
 5. Maximum transverse cerebellar diameter (TCD) in the coronal plane.
 
-The task will consist in predicting the **measurement** of the structures of interest from the reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed, along with the reoriented measurements and images. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
-
+The task will consist in predicting the **measurement** of the structures of interest from the super-resolution reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
 
 
 ## Institutions
