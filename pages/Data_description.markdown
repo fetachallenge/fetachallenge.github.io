@@ -16,7 +16,7 @@ status="is-success" %}
 
 ###  Task 1 - Segmentation
 
-For the segmentation task, the training data will consist of 120 T2-weighted fetal brain reconstructions from two different institutions with a corresponding label map that was manually segmented into 7 different tissues/labels: 
+For the segmentation task, the training data will consist of 120 T2-weighted fetal brain reconstructions from two different institutions with a corresponding label map that was manually segmented into 7 different tissues/labels, following the protocol available [here](http://neuroimaging.ch/sites/default/files/FetalAnnotationGuideline.pdf): 
 
 1. External Cerebrospinal Fluid
 2. Grey Matter
@@ -28,13 +28,18 @@ For the segmentation task, the training data will consist of 120 T2-weighted fet
 
 The dataset consists of clinically acquired fetal brain reconstructions of both neurotypical and pathological brains, and are across a range of gestational ages.
 
-For each case, the gestational age in weeks as well as the label neurotypical/pathological will be given in addition to the label maps. Each case will be 256x256x256 voxels, but the resolution of the cases from each institution is independent ().  
+For each case, the gestational age in weeks as well as the label neurotypical/pathological will be given in addition to the label maps. Each case will be 256x256x256 voxels, but the resolution of the cases from each institution is independent.  
 
 The testing dataset will consist of 160 cases (40 from each institution). Included for each case is a set of label maps, consisting of the combined label map, as well as all labels separated into individual files for your convenience. The expected output from your algorithm should be the combined label map!
 
+
+<div style="text-align:center">
+    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
+</div>
+
 ### Task 2 - Biometry
 
-For the biometry task, the training data will consist of biometric measurements done on the same 120 T2-weighted fetal brain reconstructions as above. There will be five different measurements:
+For the biometry task, the training data will consist of biometric measurements done on the same 120 T2-weighted fetal brain reconstructions as above. There are five different measurements, done following the protocol available [here](https://unils-my.sharepoint.com/:b:/g/personal/meritxell_bachcuadra_unil_ch/ERBHllIq6lJFguOyxB299r0BktZpymzvVr7SvWAwvflQ-A?e=BSsolN):
 1. Brain biparietal diameter (bBIP) in the axial plane
 2. Skull biparietal diameter (sBIP) in the axial plane
 3. Height of the vermis (HV) in the sagittal plane
