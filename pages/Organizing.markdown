@@ -108,7 +108,7 @@ hero_image: /images/Feta_2024_2.png
   <img src="/images/chuv_logo.png" alt="CHUV Logo">
   <img src="/images/cibm_logo.png" alt="CIBM Logo">
   <img src="/images/harvardms_logo.png" alt="Harvard Medical School Logo">
-  <img src="/images/icl_logo.jpg" alt="Imperial College London Logo">
+  <img src="/images/icl_logo.png" alt="Imperial College London Logo">
   <img src="/images/kcl_logo.png" alt="King's College London Logo">
   <img src="/images/ksipi_logo.png" alt="KS IPI Logo">
   <img src="/images/medvienna_logo.png" alt="Medical University of Vienna Logo">
