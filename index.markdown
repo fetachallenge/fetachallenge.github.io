@@ -38,7 +38,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 * Data Release: Mid May 2024
 
-* Docker Submission Deadline: End July/Beginning August 2024
+* Docker Submission Deadline: End July 2024
 
 * Algorithm Description Deadline: Mid August 2024
 
@@ -68,6 +68,11 @@ This challenge was supported by the following funding:
 ### Reference
 Please cite the following when using the FeTA dataset in your research:
 
-[Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Nature Scientific Data 8, 167 (2021)](https://doi.org/10.1038/s41597-021-00946-3).
+* [Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Nature Scientific Data 8, 167 (2021)](https://doi.org/10.1038/s41597-021-00946-3).
+
+* [Payette, K., Brain Li, H., de Dumast, P., et al. Fetal brain tissue annotation and segmentation challenge results, Medical Image Analysis, 88 (2023)](https://doi.org/10.1016/j.media.2023.102833)
+
+
+
 
 
