@@ -6,6 +6,9 @@ show_sidebar: false
 hero_image: /images/BannerFETA.png
 ---
 
+<div style="text-align:center">
+    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
+</div>
 
 ## Tasks
 
@@ -38,9 +41,7 @@ For the biometry task, the training data will consist of biometric measurements 
 
 The task will consist in predicting the **measurement** of the structures of interest from the reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed, along with the reoriented measurements and images. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
 
-<div style="text-align:center">
-    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
-</div>
+
 
 ## Institutions
 ### Institution 1 - University Children's Hospital Zurich (Kispi)
