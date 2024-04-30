@@ -101,7 +101,6 @@ hero_image: /images/Feta_2024_2.png
       height: auto;
     }
   </style>
-</head>
 <body>
 
 <div class="image-grid">
