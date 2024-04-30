@@ -16,7 +16,7 @@ The Fetal Tissue Annotation and Segmentation Challenge (FeTA) is a multi-class, 
 In [FeTA 2021](https://feta.grand-challenge.org/feta-2021/), we used the [first publicly available dataset](https://www.nature.com/articles/s41597-021-00946-3) of fetal brain MRI to encourage teams to develop automatic brain tissue segmentation algorithms ([challenge paper](https://https://www.sciencedirect.com/science/article/pii/S1361841523000932)). [FeTA 2022](https://feta.grand-challenge.org/feta-2022-top-5-submissions/) takes it to the next level by launching a multi-center challenge for the development of image segmentation algorithms that will be generalizable to different hospitals with unseen data ([paper under review](https://arxiv.org/abs/2402.09463)). 
 
 
-This year, **FeTA 2024 includes** a new clinically relevant task on **automated biometry** measurements and data from five **different sites and magnetic fields** including recent **low-field systems**. We believe, such new algorithms will have the potential to contribute to our understanding of the developing normal and pathological human brain across hospitals and research institutions worldwide.
+This year, **FeTA 2024 includes** a new clinically relevant task on **automated biometry** measurements and data from five **different sites and magnetic fields** including recent **low-field systems**. The accepted full proposal can be found [here](https://zenodo.org/records/10986046). We believe, such new algorithms will have the potential to contribute to our understanding of the developing normal and pathological human brain across hospitals and research institutions worldwide.
 
 ## Format: 
 
@@ -59,17 +59,17 @@ The complete dataset for the FeTA 2024 Challenge will be released soon. Instruct
 
 ### Acknowledgements
 This challenge was supported by the following funding:
-* The Hasler Foundation (Kelly Payette)
+* The [Hasler Foundation](https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/) (Kelly Payette)
 * The University Research Priority Program "Adaptive Brain Circuits in
  Development and Learning (AdaBD)" (Andras Jakab)
-* The Novartis Foundation for Medical-Biological Research and the Prof. Max Cloetta Foundation (Andras Jakab)
-* The Swiss National Science Foundation (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977
+* The [Novartis Foundation for Medical-Biological Research](https://www.novartisfoundation.org) and the [Prof. Max Cloetta Foundation](https://cloetta-foundation.ch) (Andras Jakab)
+* The [Swiss National Science Foundation](https://www.snf.ch/en) (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977
 ) (Margaux Roulet, Vlad Zalevskyi, Thomas Sanchez, Meritxell Bach Cuadra).
 
 
 ### Reference
 Please cite the following when using the FeTA dataset in your research:
 
-Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Sci Data 8, 167 (2021). https://doi.org/10.1038/s41597-021-00946-3
+[Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Nature Scientific Data 8, 167 (2021)](https://doi.org/10.1038/s41597-021-00946-3).
 
 
