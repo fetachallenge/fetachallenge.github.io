@@ -72,8 +72,16 @@ Training/Testing cases: 0 / 40
 Data Acquisition: The data from  UCSF (tesing: n=40) was acquired using 3T GE Discovery MR750 or MR750W (wide bore) without the use of maternal or fetal sedation. Acquisitions were performed using a 32 channel GE cardiac coil. At least 3 T2-weighted ssFSE sequences were acquired with one scan per orientation (sagittal, axial, coronal) with the following parameters: 240 mm FOV with 512x512 matrix gives in plane resolution of ~0.5x0.5 mm with 3 mm slice thickness. TR is 2000-3500 ms, TE > 100 ms, 90 deg flip angle.
 
 Post-Processing: For each subject, the scans were manually reviewed and the good quality scans were chosen for super-resolution reconstruction,  creating a 3D SR volume of brain morphology [3]. Each case was zero-padded to 256x256x256 and reoriented to a standard viewing plane.
+
+
+## Institution 5 - King's College London / St Thomas Hospital (KCL) 
+Training/Testing cases: 0 / 20
+
+Data Acquisition: For each of the 20 cases, 6 to 9 stacks were acquired using Half-Fourier Acquisition Single-shot Turbo spin Echo (HASTE) sequence in the three orthogonal orientations with the following parameters: TR/TE, 2500ms/106ms; flip angle, 180 deg; field-of-view, 450 × 450mm2 with a 304x304 pixels base resolution; voxel size, 1.5 × 1.5 × 4.5mm3; acquisition time between 64 to 122 seconds. Acquisitions were performed using a **0.55T SIEMENS MAGNETOM FREE.MAX scanner** (Siemens Healthineers, Erlangen, Germany) without the use of maternal or fetal sedation. All acquisitions were performed with the contour L coil and the integrated spine coil in maternal supine position
+
+Post-Processing: For the KCL data, all available stacks were manually reviewed for quality. These with sufficient quality were automatically masked and then reconstructed to 0.8 mm isotropic resolution 3D volumes using SVRTK [9] and aligned to standard reference space and zero padded to 256x256x256.
   
-## References
+### References
 <small>
 1. M. Kuklisova-Murgasova, G. Quaghebeur, M. A. Rutherford, J. V. Hajnal, and J. A. Schnabel, “Reconstruction of fetal brain MRI with intensity matching and complete outlier removal,” Med. Image Anal., vol. 16, no. 8, pp. 1550–1564, Dec. 2012, doi: 10.1016/j.media.2012.07.004.  
 2. S. Tourbier, X. Bresson, P. Hagmann, J.-P. Thiran, R. Meuli, and M. B. Cuadra, “An efficient total variation algorithm for super-resolution in fetal brain MRI with adaptive regularization,” NeuroImage, vol. 118, pp. 584–597, Sep. 2015, doi: 10.1016/j.neuroimage.2015.06.018.  
@@ -82,5 +90,6 @@ Post-Processing: For each subject, the scans were manually reviewed and the good
 5.  P. Coupe, P. Yger, S. Prima, P. Hellier, C. Kervrann, and C. Barillot, “An Optimized Blockwise Nonlocal Means Denoising Filter for 3-D Magnetic Resonance Images,” IEEE Trans. Med. Imaging, vol. 27, no. 4, pp. 425–441, Apr. 2008, doi: 10.1109/TMI.2007.906087.  
 6. Chao Dong, Chen Change Loy, and Xiaoou Tang, “Accelerating the Super-Resolution Convolutional Neural Network,” in In Computer Vision - ECCV 2016, 9906 LNCS, 2016, pp. 391–407. Accessed: Dec. 13, 2021. [Online]. Available: https://www.springerprofessional.de/en/accelerating-the-super-resolution-convolutional-neural-network/10708956  
 7. A. Gholipour et al., “A normative spatiotemporal MRI atlas of the fetal brain for automatic segmentation and analysis of early brain growth,” Sci. Rep., vol. 7, Jan. 2017, doi: 10.1038/s41598-017-00525-w  
-8. R. Kikinis, S. D. Pieper, and K. G. Vosburgh, “3D Slicer: A Platform for Subject-Specific Image Analysis, Visualization, and Clinical Support,” in Intraoperative Imaging and Image-Guided Therapy, Springer, New York, NY, 2014, pp. 277–289. doi: 10.1007/978-1-4614-7657-3_19.  
+8. R. Kikinis, S. D. Pieper, and K. G. Vosburgh, “3D Slicer: A Platform for Subject-Specific Image Analysis, Visualization, and Clinical Support,” in Intraoperative Imaging and Image-Guided Therapy, Springer, New York, NY, 2014, pp. 277–289. doi: 10.1007/978-1-4614-7657-3_19.
+9. Uus, A. U., Hall, M., Payette, K., Hajnal, J. V., Deprez, M., Hutter, J., Rutherford, M. A., Story, L. (2023) Combined quantitative T2* map and structural T2- weighted tissue-specific analysis for fetal brain MRI: pilot automated pipeline. PIPPI MICCAI 2023 workshop, LNCS 14246.: https://doi.org/10.1007/978-3-031-45544-5_3
 </small>
