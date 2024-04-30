@@ -25,7 +25,7 @@ The accepted full proposal can be found [here](https://zenodo.org/records/109860
 
 ### References
 <small>
-[1] Child mortality and causes of death. Accessed: Jan. 10, 2024. [Online]. Available: https://www.who.int/data/gho/data/themes/topics/  
+[1] Child mortality and causes of death. Accessed: Jan. 10, 2024. [Online]. Available: [https://www.who.int/data/gho/data/themes/topics/](https://www.who.int/data/gho/data/themes/topics/)
 [2] V. Kyriakopoulou et al., Normative biometry of the fetal brain using magnetic resonance imaging, Brain Struct. Funct., vol. 222, no. 5, 2017, doi: 10.1007/s00429-016-1342-6.   
 [3] M. Khawam et al., Fetal Brain Biometric Measurements on 3D Super-Resolution Reconstructed T2-Weighted MRI: An Intra- and Inter-observer Agreement Study, Front. Pediatr., vol. 9, p. 639746, Aug. 2021, doi: 10.3389/fped.2021.639746.  
 [4] G. Egaña-Ugrinovic, M. Sanz-Cortes, F. Figueras, N. Bargalló, and E. Gratacós, Differences in cortical development assessed by fetal MRI in late-onset intrauterine growth restriction, Am. J. Obstet. Gynecol., vol. 209, no. 2, Aug. 2013, doi: 10.1016/j.ajog.2013.04.008.  
@@ -35,7 +35,7 @@ The accepted full proposal can be found [here](https://zenodo.org/records/109860
 [8] D. Prayer et al., MRI of normal fetal brain development, Eur. J. Radiol., vol. 57, no. 2, Feb. 2006, doi: 10.1016/j.ejrad.2005.11.020.  
 [9] D. A. Jarvis, C. R. Finney, and P. D. Griffiths, Normative volume measurements of the fetal intra-cranial compartments using 3D volume in utero MR imaging, Eur. Radiol., vol. 29, no. 7, Jul. 2019, doi: 10.1007/s00330-018-5938-5.  
 [10] T. Sanchez, O. Esteban, Y. Gomez, E. Eixarch, and M. B. Cuadra, FetMRQC: Automated Quality Control for Fetal Brain MRI, in Perinatal, Preterm and Paediatric Image Analysis, vol. 14246, D. Link-Sourani, E. Abaci Turk, C. Macgowan, J. Hutter, A. Melbourne, and R. Licandro, Eds., in Lecture Notes in Computer Science, vol. 14246. , Cham: Springer Nature Switzerland, 2023, doi: 10.1007/978-3-031-45544-5_1.  
-[11] T. Sanchez et al., FetMRQC: an open-source machine learning framework for multi-centric fetal brain MRI quality control. arXiv, Nov. 08, 2023. Accessed: Jan. 10, 2024. [Online]. Available: http://arxiv.org/abs/2311.04780  
+[11] T. Sanchez et al., FetMRQC: an open-source machine learning framework for multi-centric fetal brain MRI quality control. arXiv, Nov. 08, 2023. Accessed: Jan. 10, 2024. [Online]. Available: [http://arxiv.org/abs/2311.04780](http://arxiv.org/abs/2311.04780)  
 [12] K. Payette et al., An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset, Sci. Data, vol. 8, no. 1, Art. no. 1, Jul. 2021, doi: 10.1038/s41597-021-00946-3.  
 [13] K. Payette et al., Fetal brain tissue annotation and segmentation challenge results, Med. Image Anal., vol. 88, p. 102833, Aug. 2023, doi: 10.1016/j.media.2023.102833.  
 [14] J. Aviles Verdera et al., Reliability and Feasibility of Low-Field-Strength Fetal MRI at 0.55 T during Pregnancy, Radiology, vol. 309, no. 1, p. e223050, Oct. 2023, doi: 10.1148/radiol.223050. 
