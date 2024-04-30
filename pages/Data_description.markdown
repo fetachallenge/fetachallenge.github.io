@@ -32,11 +32,6 @@ For each case, the gestational age in weeks as well as the label neurotypical/pa
 
 The testing dataset will consist of 160 cases (40 from each institution). Included for each case is a set of label maps, consisting of the combined label map, as well as all labels separated into individual files for your convenience. The expected output from your algorithm should be the combined label map!
 
-
-<div style="text-align:center">
-    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
-</div>
-
 ### Task 2 - Biometry
 
 For the biometry task, the training data will consist of biometric measurements done on the same 120 T2-weighted fetal brain reconstructions as above. There are five different measurements, done following the protocol available [here](https://unils-my.sharepoint.com/:b:/g/personal/meritxell_bachcuadra_unil_ch/ERBHllIq6lJFguOyxB299r0BktZpymzvVr7SvWAwvflQ-A?e=BSsolN):
@@ -47,6 +42,10 @@ For the biometry task, the training data will consist of biometric measurements 
 5. Maximum transverse cerebellar diameter (TCD) in the coronal plane.
 
 The task will consist in predicting the **measurement** of the structures of interest from the reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed, along with the reoriented measurements and images. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
+
+<div style="text-align:center">
+    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
+</div>
 
 ## Institutions
 ### Institution 1 - University Children's Hospital Zurich (Kispi)
