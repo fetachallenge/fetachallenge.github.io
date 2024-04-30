@@ -1,10 +1,10 @@
 ---
-title: Fetal Tissue Annotation and Segmentation Challenge
-subtitle: MICCAI 2024
+title: Fetal Tissue Annotation and Segmentation
+subtitle: MICCAI 2024 Challenge
 layout: page
 menubar: home_menu
 show_sidebar: false
-hero_image: /images/BannerFETA2024.png
+hero_image: /images/BannerFETA.png
 ---
 <!-- 
 callouts: home_callouts
@@ -25,7 +25,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 <div style="text-align:center">
     <a href="https://pippiworkshop.github.io/">
-        <img src="/images/JointPIPPI-FETA" alt="JointPIPPIFETA" style="width:200px;height:auto;">
+        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:200px;height:auto;">
     </a>
 </div>
 
