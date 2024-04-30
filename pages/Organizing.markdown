@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Our Team
+title: Organizing Team
 description: Organizing Team
 show_sidebar: false
-hero_image: /images/Feta_2024_2.png
+hero_image: /images/BannerFETA.png
 ---
 
 
