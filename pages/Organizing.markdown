@@ -10,7 +10,7 @@ hero_image: /images/BannerFETA.png
 <div style="text-align:center;">
     <div style="display:inline-block; margin-right: 80px;">
         <img src="/images/meri.png" alt="feta" style="width:150px;height:auto;">
-        <div class="image-description">Meritxell Bach<br>Cuadra, University of Lausanne<br>Lausanne University Hospital<br><br><br><br><br></div>
+        <div class="image-description">Meritxell Bach Cuadra, University of Lausanne<br>Lausanne University Hospital<br><br><br><br><br></div>
     </div>
 
     <div style="display:inline-block; margin-right: 80px;">
@@ -50,13 +50,13 @@ hero_image: /images/BannerFETA.png
     
     <div style="display:inline-block; margin-right: 80px;">
         <img src="/images/margaux.png" alt="feta" style="width:150px;height:auto;">
-        <div class="image-description">Margaux Roulet<br>University of Lausanne<br><br><br><br><br></div>
+        <div class="image-description">Margaux Roulet<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br><br><br></div>
     </div>
 
     
     <div style="display:inline-block;">
         <img src="/images/vladyslav_zalevskyi.png" alt="PIPPI" style="width:150px;height:auto;">
-        <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br><br><br><br><br></div>
+        <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br><br><br></div>
     </div>
     
 </div>
@@ -64,7 +64,7 @@ hero_image: /images/BannerFETA.png
 <div style="text-align:center;">
     <div style="display:inline-block; margin-right: 80px;">
         <img src="/images/thomas.png" alt="feta" style="width:150px;height:auto;">
-        <div class="image-description">Thomas Sanchez<br>University of Lausanne<br><br><br></div>
+        <div class="image-description">Thomas Sanchez<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br></div>
     </div>
 
     <div style="display:inline-block; margin-right: 80px;">
