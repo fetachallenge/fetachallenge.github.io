@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fetal Tissue Annotation and Segmentation
-subtitle: MICCAI 2024
+subtitle: MICCAI 2024 Challenge
 menubar: home_menu
 hero_image: /images/BannerFETA.png
 show_sidebar: false
@@ -20,7 +20,7 @@ In our first FeTA edition (FeTA 2021), we used the first publicly available data
 In FeTA 2024 we aim to improve and extend the established FeTA Challenge in two ways: Firstly, we introduce a new task to automatically derive clinically relevant biometry typically used in practice for fetal evaluation. Secondly, following the recent rise in popularity of low-cost low-field MRI systems [14] which aim at democratizing MRI access world-wide, we extend the generalizability assessment of segmentation methods by including low-field (0.55T) MRI data. FeTA 2024 challenge is an important step towards the development of effective, domain-generalizable and reproducible methods for analyzing high resolution reconstructed MR images of the developing fetal brain from gestational week 21-36. It will include a new clinically relevant task on automated biometry measurements and data from five different sites and magnetic fields including recent low-field systems. Such new algorithms will have the potential to support clinicians in the assessment of fetal brain MRI in-utero in many ways: to better understand the underlying causes of congenital disorders and ultimately to guide the development of antenatal/postnatal guidelines and clinical risk stratification tools for early interventions, treatments, and care management decisions across hospitals and research institutions worldwide.    
 
 
-
+The accepted full proposal can be found [here](https://zenodo.org/records/10986046).
 
 
 ### References
