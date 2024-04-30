@@ -60,11 +60,9 @@ The complete dataset for the FeTA 2024 Challenge will be released soon. Instruct
 ### Acknowledgements
 This challenge was supported by the following funding:
 * The [Hasler Foundation](https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/) (Kelly Payette)
-* The University Research Priority Program "Adaptive Brain Circuits in
- Development and Learning (AdaBD)" (Andras Jakab)
+* The University Research Priority Program "Adaptive Brain Circuits in Development and Learning (AdaBD)" (Andras Jakab)
 * The [Novartis Foundation for Medical-Biological Research](https://www.novartisfoundation.org) and the [Prof. Max Cloetta Foundation](https://cloetta-foundation.ch) (Andras Jakab)
-* The [Swiss National Science Foundation](https://www.snf.ch/en) (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977
-) (Margaux Roulet, Vlad Zalevskyi, Thomas Sanchez, Meritxell Bach Cuadra).
+* The [Swiss National Science Foundation](https://www.snf.ch/en) (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977) (Margaux Roulet, Vlad Zalevskyi, Thomas Sanchez, Meritxell Bach Cuadra).
 
 
 ### Reference
