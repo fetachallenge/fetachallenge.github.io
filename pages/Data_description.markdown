@@ -6,11 +6,6 @@ show_sidebar: false
 hero_image: /images/BannerFETA.png
 ---
 
-{% include notification.html
-message="The updated data description for FeTA 2024 will come out around May 2024. "
-icon="false"
-status="is-success" %}
-***
 
 ## Tasks
 
