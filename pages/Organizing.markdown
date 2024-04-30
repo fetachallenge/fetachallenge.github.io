@@ -55,7 +55,7 @@ hero_image: /images/BannerFETA.png
 
     
     <div style="display:inline-block;">
-        <img src="/images/vladyslav.png" alt="PIPPI" style="width:150px;height:auto;">
+        <img src="/images/vladyslav_zalevskyi.png" alt="PIPPI" style="width:150px;height:auto;">
         <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br><br><br><br><br></div>
     </div>
     
