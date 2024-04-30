@@ -13,7 +13,7 @@ callouts: home_callouts
 
 The Fetal Tissue Annotation and Segmentation Challenge (FeTA) is a multi-class, multi-institution image segmentation and biometry challenge part of [MICCAI 2024](https://conferences.miccai.org/2024/en/). The goal of FeTA is to **develop effective, domain-generalizable and reproducible methods for analyzing high resolution reconstructed MR images of the developing fetal brain** from gestational week 21-36. The challenge provides manually annotated, super-resolution reconstructed MRI data of human fetal brains which will be used for training and testing **automated multi-class image segmentation and regression biometry measurements algorithms**.
 
-In [FeTA 2021](https://feta.grand-challenge.org/feta-2021/), we used the [first publicly available dataset](https://www.nature.com/articles/s41597-021-00946-3) of fetal brain MRI to encourage [teams to develop automatic brain tissue segmentation algorithms](https://). [FeTA 2022] (https://feta.grand-challenge.org/feta-2022-top-5-submissions/) takes it to the next level by launching a multi-center challenge for the development of image segmentation algorithms that will be generalizable to different hospitals with unseen data ([paper under review](https://arxiv.org/abs/2402.09463)). 
+In [FeTA 2021](https://feta.grand-challenge.org/feta-2021/), we used the [first publicly available dataset](https://www.nature.com/articles/s41597-021-00946-3) of fetal brain MRI to encourage teams to develop automatic brain tissue segmentation algorithms ([challenge paper](https://https://www.sciencedirect.com/science/article/pii/S1361841523000932)). [FeTA 2022](https://feta.grand-challenge.org/feta-2022-top-5-submissions/) takes it to the next level by launching a multi-center challenge for the development of image segmentation algorithms that will be generalizable to different hospitals with unseen data ([paper under review](https://arxiv.org/abs/2402.09463)). 
 
 
 This year, **FeTA 2024 includes** a new clinically relevant task on **automated biometry** measurements and data from five **different sites and magnetic fields** including recent **low-field systems**. We believe, such new algorithms will have the potential to contribute to our understanding of the developing normal and pathological human brain across hospitals and research institutions worldwide.
@@ -25,7 +25,12 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 <div style="text-align:center">
     <a href="https://pippiworkshop.github.io/">
-        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:40%;height:auto;">
+        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:50%;height:auto;">
+    </a>
+</div>
+<div style="text-align:center">
+    <a href="https://conferences.miccai.org/2024/en/">
+        <img src="/images/miccai2024-logo.png" alt="MICCAI" style="width:100px;height:auto;">
     </a>
 </div>
 
