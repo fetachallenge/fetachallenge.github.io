@@ -49,7 +49,6 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 * Early Bird Registration for MICCAI (more info at [MICCAI homepage](https://conferences.miccai.org/2024/en/)): August 25th 2024
 
 
-
 ## Data Release
 
 The complete dataset for the FeTA 2024 Challenge will be released soon. Instructions for downloading the challenge dataset are in  [Data](/pages/Data_description) subsection.  
@@ -67,7 +66,7 @@ This challenge was supported by the following funding:
 * The [Swiss National Science Foundation](https://www.snf.ch/en) (215641) and the ERA-NET Neuron MULTI-FACT project (SNSF 31NE30 203977) (Margaux Roulet, Vlad Zalevskyi, Thomas Sanchez, Meritxell Bach Cuadra).
 
 
-### Reference
+### References
 Please cite the following when using the FeTA dataset in your research:
 
 * [Payette, K., de Dumast, P., Kebiri, H. et al. An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset. Nature Scientific Data 8, 167 (2021)](https://doi.org/10.1038/s41597-021-00946-3).
