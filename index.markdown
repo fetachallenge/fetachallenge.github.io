@@ -49,13 +49,15 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 * Early Bird Registration for MICCAI (more info at [MICCAI homepage](https://conferences.miccai.org/2024/en/)): August 25th 2024
 
 
-## Participation
-To participate in the challenge, please send an email to [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com) with the **headline** 'FeTA 2024 Participate'. We will send you the password to download the dataset. 
 
 ## Data Release
 
 The complete dataset for the FeTA 2024 Challenge will be released soon. Instructions for downloading the challenge dataset are in  [Data](/pages/Data_description) subsection.  
 
+
+## Contact information
+
+If there are any questions, please contact us at: feta-challenge@googlegroups.com 
 
 ### Acknowledgements
 This challenge was supported by the following funding:
