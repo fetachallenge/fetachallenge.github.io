@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fetal Tissue Annotation and Segmentation Challenge (FeTA)
+title: Fetal Tissue Annotation and Segmentation
 subtitle: MICCAI 2024
 menubar: home_menu
 hero_image: /images/BannerFETA.png
