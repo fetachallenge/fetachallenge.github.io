@@ -25,13 +25,25 @@ We believe that these algorithms will have the potential to contribute to our un
 This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis
  ) workshop. Detailed program for the workshop and challenge will be announced soon on the [Program](/pages/Program) page.
 
-<div style="text-align:center;display: inline-block;">
+<div style="text-align:center; display: inline-block;">
     <a href="https://pippiworkshop.github.io/">
         <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:auto;height:80px; vertical-align: middle;">
     </a>
      <a href="https://conferences.miccai.org/2024/en/">
-        <img src="/images/at_miccai.png" alt="MICCAI" style="width:auto;height:100px;margin-left:10px; vertical-align: middle;">
+        <img src="/images/at_miccai.png" alt="MICCAI" style="width:auto;height:100px; vertical-align: middle;">
     </a>
+</div>
+
+<div style="width: 100%;text-align: center;position: absolute;">
+<div style="height=100%; display:inline-block; text-align: center; vertical-align:middle;">
+    <a href="https://pippiworkshop.github.io/">
+        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:auto;height:80px;">
+    </a>
+</div><!-- --><div style="height=100%; display:inline-block; text-align: center; vertical-align:middle;">
+     <a href="https://conferences.miccai.org/2024/en/">
+        <img src="/images/at_miccai.png" alt="MICCAI" style="width:auto;height:100px; vertical-align: middle;">
+    </a>
+</div>
 </div>
 
 ## Important Dates
