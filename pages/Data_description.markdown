@@ -42,7 +42,7 @@ For the biometry task, the training data will consist of biometric measurements 
 The task will consist in predicting the **measurement** of the structures of interest from the super-resolution reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
 
 
-## Institutions
+## Datasets
 ### Institution 1 - University Children's Hospital Zurich (Kispi)
 Training/Testing cases: 80 / 40
 
