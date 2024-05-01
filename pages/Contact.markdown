@@ -10,5 +10,5 @@ For questions regarding the challenge please write to [feta-challenge@googlegrou
 
 
 <a href="https://twitter.com/FetaChallenge">
-    <img src="/images/x_icon.png" alt="Twitter" style="width:50%;">
+    <img src="/images/x_icon.png" alt="Twitter" style="width:20%;">
 </a>
