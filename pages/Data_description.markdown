@@ -6,11 +6,11 @@ show_sidebar: false
 hero_image: /images/BannerFETA.png
 ---
 
+## Tasks
 <div style="text-align:center">
     <img src="/images/task_intro.png" alt="FeTA tasks" style="width:100%;height:auto;">
 </div>
 
-## Tasks
 
 ###  Task 1 - Segmentation
 
