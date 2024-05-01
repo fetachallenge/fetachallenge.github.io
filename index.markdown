@@ -44,7 +44,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 * Notification of Presentations to top teams: August 22nd 2024
 
-* **FeTA 2024 Challenge Day: 6 Oct 2024**
+* **FeTA 2024 Challenge Day: TBC Oct 2024**
 
 * Early Bird Registration for MICCAI (more info at [MICCAI homepage](https://conferences.miccai.org/2024/en/)): August 25th 2024
 
