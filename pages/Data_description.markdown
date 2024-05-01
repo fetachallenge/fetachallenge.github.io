@@ -6,11 +6,11 @@ show_sidebar: false
 hero_image: /images/BannerFETA.png
 ---
 
+## Tasks
 <div style="text-align:center">
-    <img src="/images/Feta_tasks.png" alt="FeTA tasks" style="width:70%;height:auto;">
+    <img src="/images/task_intro.png" alt="FeTA tasks" style="width:100%;height:auto;">
 </div>
 
-## Tasks
 
 ###  Task 1 - Segmentation
 
@@ -43,6 +43,11 @@ The task will consist in predicting the **measurement** of the structures of int
 
 
 ## Datasets
+
+<div style="text-align:center">
+    <img src="/images/data_descr.png" alt="FeTA Data" style="width:100%;height:auto;">
+</div>
+
 ### Institution 1 - University Children's Hospital Zurich (Kispi)
 Training/Testing cases: 80 / 40
 
