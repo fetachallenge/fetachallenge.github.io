@@ -30,6 +30,7 @@ The accepted full proposal can be found [here](https://zenodo.org/records/109860
 ### References
 <small>
 [1] Child mortality and causes of death. Accessed: Jan. 10, 2024. [Online]. Available: [https://www.who.int/data/gho/data/themes/topics/](https://www.who.int/data/gho/data/themes/topics/)
+
 [2] V. Kyriakopoulou et al. “Normative biometry of the fetal brain using magnetic resonance imaging,” Brain Struct. Funct., vol. 222, no. 5, 2017, doi: 10.1007/s00429-016-1342-6.   
 [3] M. Khawam et al. “Fetal Brain Biometric Measurements on 3D Super-Resolution Reconstructed T2-Weighted MRI: An Intra- and Inter-observer Agreement Study,” Front. Pediatr., vol. 9, p. 639746, Aug. 2021, doi: 10.3389/fped.2021.639746.  
 [4] G. Egaña-Ugrinovic et al. “Differences in cortical development assessed by fetal MRI in late-onset intrauterine growth restriction,” Am. J. Obstet. Gynecol., vol. 209, no. 2, Aug. 2013, doi: 10.1016/j.ajog.2013.04.008.  
