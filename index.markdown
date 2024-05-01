@@ -25,12 +25,12 @@ We believe that these algorithms will have the potential to contribute to our un
 This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis
  ) workshop. Detailed program for the workshop and challenge will be announced soon on the [Program](/pages/Program) page.
 
-<div style="text-align:center">
+<div style="text-align:center;display: inline-block;">
     <a href="https://pippiworkshop.github.io/">
-        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:auto;height:50px;">
+        <img src="/images/JointPIPPI-FETA.png" alt="JointPIPPIFETA" style="width:auto;height:5%;">
     </a>
      <a href="https://conferences.miccai.org/2024/en/">
-        <img src="/images/at_miccai.png" alt="MICCAI" style="width:auto;height:50px;">
+        <img src="/images/at_miccai.png" alt="MICCAI" style="width:auto;height:5%;">
     </a>
 </div>
 
