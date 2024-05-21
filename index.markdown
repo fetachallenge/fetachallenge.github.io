@@ -35,13 +35,13 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 ## Important Dates
 
-* Data Release: Mid May 2024
+* Data Release: 22nd May 2024
 
-* Docker Submission Deadline: End July 2024
+* Docker Submission Deadline: 31st July 2024
 
-* Algorithm Description Deadline: Mid August 2024
+* Algorithm Description Deadline: 12th August 2024
 
-* Notification of Presentations to top teams: August 22nd 2024
+* Notification of Presentations to top teams: 22nd August 2024
 
 * **FeTA 2024 Challenge Day: 6th Oct 2024**
 
@@ -50,7 +50,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 ## Data Release
 
-The complete dataset for the FeTA 2024 Challenge will be released soon. Instructions for downloading the challenge dataset are in  [Data](/pages/Data_description) subsection.  
+The complete dataset for the FeTA 2024 Challenge is now released. Instructions for downloading the challenge dataset are in [Data](/pages/Data_description) subsection.  
 
 
 ## Contact information
