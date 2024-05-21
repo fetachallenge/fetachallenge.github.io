@@ -34,7 +34,7 @@ github_username:  jekyll
 # remote_theme: chrisrhymes/bulma-clean-theme
 # =======
 # theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
 
