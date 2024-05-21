@@ -7,10 +7,12 @@ hero_image: /images/BannerFETA.png
 ---
 
 ***
+
 FeTA dataset consist of data from multiple institutions, and therefore there are 2 steps to download the data. With the two datasets below ( 1 and 2) you have access to super-resolution reconstructed images, manual brain tissue annotations (Task 1) and biometry measurements (Task 2) of the training sets.
+
 ***
 
-###1. Request access and download the FeTA 2024 data from the University Children’s Hospital Zurich:
+### 1. Request access and download the FeTA 2024 data from the University Children’s Hospital Zurich:
 
 This data is the same as from FeTA 2021 and 2022. Access to the data **requires that you are a registered Synapse user** (and having accepted the [Synapse Terms and Conditions of Use](https://s3.amazonaws.com/static.synapse.org/governance/SageBionetworksSynapseTermsandConditionsofUse.pdf?v=5)) and **agree to the following terms and conditions**:
       
@@ -30,7 +32,7 @@ This data is the same as from FeTA 2021 and 2022. Access to the data **requires 
     
    * Follow the instructions under the heading 'Download FeTA Challenge Dataset’
     
-###2.  Process to access the FeTA 2024 data from the Medical University of Vienna 
+### 2.  Process to access the FeTA 2024 data from the Medical University of Vienna 
 
  The FeTA 2024 data from the Medical University of Vienna has been provided only for the purpose of the FeTA 2024 challenge and thus the sharing will be stopped after the submission deadline on August 2024. 
 
@@ -75,7 +77,7 @@ Last Name:
 E-mail Address:
 
 ***
-###3. Information about FeTA 2024 Biometry:
+### 3. Information about FeTA 2024 Biometry:
 Stand-alone biometry measurements (without SR T2w images nor annotations) are also stored in Zenodo:
 
 * Fetal Tissue Annotation Challenge (FeTA) Biometry - MICCAI 2024, T. Sanchez, Y. Gomez, R. Licandro, K. Payette, A. Jakab, M. Koob, M. Bach Cuadra, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11192452.svg)](https://doi.org/10.5281/zenodo.11192452)
