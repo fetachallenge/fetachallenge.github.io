@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Fetal Tissue Annotation and Segmentation
 subtitle: MICCAI 2024 Challenge
 layout: page
