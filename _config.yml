@@ -19,15 +19,26 @@
 # in the templates via {{ site.myvariable }}.
 
 title: FeTA Challenge 2024
-email: your-email@example.com
+email: feta-challenge@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fetachallenge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+# SEO and Metadata
+seo:
+  title: "FeTA Challenge"
+  description: "Fetal Tissue Annotation and Segmentation - MICCAI 2024 Challenge."
+  author: "FeTA"
+  twitter: FetaChallenge
+  url: "https://fetachallenge.github.io"
+  keywords: "FeTA, feta, feta challenge 2024"
+  type: "website"
+  image: "https://fetachallenge.github.io/images/task_intro.png"
 
 # Build settings
 # theme: bulma-clean-theme
@@ -39,6 +50,12 @@ plugins:
   - jekyll-feed
   - github-pages
   - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Sitemap
+gems:
+  - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
