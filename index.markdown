@@ -9,8 +9,6 @@ hero_image: /images/BannerFETA.png
 <!-- 
 callouts: home_callouts
 -->
-<!DOCTYPE html>
-<html>
 <head>
     <meta name="google-site-verification" content="_A7gX7X8TEPuUQj2_YAxSD-msRzJZo3SmdW2jLBwjPU" />
     <meta name="title" content="{{ site.seo.title }}">
@@ -85,6 +83,5 @@ Please cite the following when using the FeTA dataset in your research:
 
 
 </body>
-</html>
 
 
