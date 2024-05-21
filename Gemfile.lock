@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
-    bulma-clean-theme (0.13.3)
+    bulma-clean-theme
       jekyll (>= 3.9, < 5.0)
       jekyll-feed (~> 0.15)
       jekyll-paginate (~> 1.1)

@@ -31,12 +31,14 @@ github_username:  jekyll
 
 # Build settings
 # theme: bulma-clean-theme
-# remote_theme: chrisrhymes/bulma-clean-theme
+# remote_theme: fetachallenge/bulma-clean-theme
 # =======
 # theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: fetachallenge/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - github-pages
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
