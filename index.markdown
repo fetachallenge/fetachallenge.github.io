@@ -16,8 +16,6 @@ callouts: home_callouts
     <meta name="keywords" content="{{ site.seo.keywords }}">
     <!-- Add more meta tags here as needed -->
 </head>
-<body>
-
 
 The Fetal Tissue Annotation and Segmentation Challenge (FeTA) is a multi-class, multi-institution image segmentation and biometry challenge part of [MICCAI 2024](https://conferences.miccai.org/2024/en/). The goal of FeTA is to **develop effective, domain-generalizable and reproducible methods for analyzing high resolution reconstructed MR images of the developing fetal brain** from gestational week 21-36. The challenge provides manually annotated, super-resolution reconstructed MRI data of human fetal brains which will be used for training and testing **automated multi-class image segmentation and biometric measurements prediction**.
 
@@ -81,7 +79,5 @@ Please cite the following when using the FeTA dataset in your research:
 
 * [K. Payette et al. Fetal brain tissue annotation and segmentation challenge results, Medical Image Analysis, 88 (2023)](https://doi.org/10.1016/j.media.2023.102833)
 
-
-</body>
 
 
