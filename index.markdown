@@ -12,6 +12,7 @@ callouts: home_callouts
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="google-site-verification" content="_A7gX7X8TEPuUQj2_YAxSD-msRzJZo3SmdW2jLBwjPU" />
     <meta name="title" content="{{ site.seo.title }}">
     <meta name="description" content="{{ site.seo.description }}">
     <meta name="keywords" content="{{ site.seo.keywords }}">
