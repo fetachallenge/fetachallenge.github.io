@@ -13,7 +13,7 @@ status="is-success" %}
 
 
 Algorithm Description Guidelines
-In addition to submitting a docker container, participants must submit a short description of their algorithm highlighting the main features by August 9, 2022. 
+In addition to submitting a docker container, participants must submit a short description of their algorithm highlighting the main features by August 9, 2024. 
 
 Please fill in the following form: [FeTA Challenge Algorithm Description Submission](https://www.synapse.org/Portal/filehandle?ownerId=syn25649159&ownerType=ENTITY&fileName=Algorithm_submission_instructions.docx&preview=false&wikiId=610007)
 
