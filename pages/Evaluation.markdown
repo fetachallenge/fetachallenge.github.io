@@ -23,7 +23,7 @@ The ranking will be based on the measurement error in percentage (ME) which is t
 
 In addition, we will compute the R2 coefficient between the predictions and the ground truth for each region to assess the spread of the prediction, but we will not use it in the ranking.  
 
-
+**Note.** While the ranking will be based on the the biometric measurements, we encourage the participants to include the landmarks of the predictions if their method performs them.
 
 # 2. Ranking
 
