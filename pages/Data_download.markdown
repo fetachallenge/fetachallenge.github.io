@@ -7,7 +7,7 @@ hero_image: /images/BannerFETA.png
 ---
 
 ***
-FeTA dataset consist of data from multiple institutions, and therefore there are 2 steps to download the data. With the link below you have access to both segmentations and biometry data of the training sets.
+FeTA dataset consist of data from multiple institutions, and therefore there are 2 steps to download the data. With the two datasets below ( 1 and 2) you have access to super-resolution reconstructed images, manual brain tissue annotations (Task 1) and biometry measurements (Task 2) of the training sets.
 ***
 
 ###1. Request access and download the FeTA 2024 data from the University Children’s Hospital Zurich:
@@ -74,6 +74,11 @@ Last Name:
 
 E-mail Address:
 
+***
+###3. Information about FeTA 2024 Biometry:
+Stand-alone biometry measurements (without SR T2w images nor annotations) are also stored in Zenodo:
+
+* Fetal Tissue Annotation Challenge (FeTA) Biometry - MICCAI 2024, T. Sanchez, Y. Gomez, R. Licandro, K. Payette, A. Jakab, M. Koob, M. Bach Cuadra, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11192452.svg)](https://doi.org/10.5281/zenodo.11192452)
 
 ***
 
