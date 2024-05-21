@@ -28,7 +28,7 @@ The dataset consists of clinically acquired fetal brain reconstructions of both 
 
 For each case, the gestational age in weeks as well as the label neurotypical/pathological will be given in addition to the label maps. Each case will be 256x256x256 voxels, but the resolution of the cases from each institution is independent.  
 
-The testing dataset will consist of 160 cases (40 from each institution). Included for each case is a set of label maps, consisting of the combined label map, as well as all labels separated into individual files for your convenience. The expected output from your algorithm should be the combined label map!
+The testing dataset will consist of 180 cases. Included for each case is a set of label maps, consisting of the combined label map, as well as all labels separated into individual files for your convenience. The expected output from your algorithm should be the combined label map!
 
 ### Task 2 - Biometry
 
