@@ -29,6 +29,10 @@ status="is-success" %}
 
 **A:** There was a version of the FeTA dataset on Zenodo related to a paper that is currently in revision. However, the dataset to be used for the FeTA 2024 challenge is a larger version of the Zenodo dataset with a wider range of gestational ages, pathologies, and super-resolution reconstruction methods. This dataset can be downloaded from Synapse after registering to the challenge and for the Synapse website.
 
+**Q: Can I participate to only one of the proposed task or it is mandatory to participate to both task ?**
+
+**A:** Participants can choose to take part in both tasks, or just one, either task 1 or task 2. Participation in both tasks is not mandatory.
+
 **Q: Can I use my own data while creating my algorithm?**
 
 **A:** The participants can use **publicly available data** as desired, but they should document whatever is used in the description of their algorithm. Participants may modify the training data as they wish as long as everything is documented. Synthetic data should be able to be made available upon request. **Non-public data may not be used**, this is for fairness of comparison.

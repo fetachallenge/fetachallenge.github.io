@@ -9,7 +9,7 @@ hero_image: /images/BannerFETA.png
 
 
 
-We are glad to announce that FeTA will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis) workshop. You can find our temptative program for the workshop and challenge here below.
+We are glad to announce that FeTA will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis) workshop. You can find our tentative program for the workshop and challenge here below.
 
 <div style="text-align:center;">
     <div style="display:inline-block; margin-right: 20px;">
