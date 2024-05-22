@@ -31,7 +31,7 @@ We are glad to announce that FeTA will be held jointly with the [PIPPI](https://
 
 
 
-### Temptative program
+### Tentative program
 08:00 - 08:10 Welcome & Introduction
 
 08:10 - 09:00 <span style="color: pink;"> PIPPI</span> &<span style="color: orange;"> FeTA</span> Keynote
