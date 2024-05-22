@@ -7,9 +7,9 @@ hero_image: /images/BannerFETA.png
 ---
 
 Algorithm Description Guidelines
-In addition to submitting a docker container, participants must submit a short description of their algorithm highlighting the main features by August 12, 2024. 
+In addition to submitting a docker container, participants must submit **by August 12th 2024** a short description of their algorithm highlighting the main features. 
 
-Please fill in the following form: [FeTA Challenge Algorithm Description Submission](https://unils-my.sharepoint.com/:w:/g/personal/meritxell_bachcuadra_unil_ch/Ee8SkAh6LoNMqFlB5BUD7tABtUELTviEo4CrlpcvH7UHPg?e=JenG4Q)
+> Use following form: [FeTA Challenge Algorithm Description Submission](https://unils-my.sharepoint.com/:w:/g/personal/meritxell_bachcuadra_unil_ch/Ee8SkAh6LoNMqFlB5BUD7tABtUELTviEo4CrlpcvH7UHPg?e=JenG4Q)
 
 In addition to the above form, please provide a description of your model highlighting the main features. This description must include the following details (unless the parameter is not applicable for your model):
 
