@@ -50,6 +50,6 @@ We are glad to announce that FeTA will be held jointly with the [PIPPI](https://
 
 <span style="color: orange;"> 11:50 - 12:00 FeTA winners ceremony</span>
 
-12:00 - 13:30 Joint <span style="color: pink;"> PIPPI</span></span> & <span style="color: orange;"> FeTA</span> Poster Session & <span style="color: pink;"> PIPPI</span> Circle Demonstrations
+12:00 - 13:30 Joint <span style="color: pink;"> PIPPI</span> & <span style="color: orange;"> FeTA</span> Poster Session & <span style="color: pink;"> PIPPI</span> Circle Demonstrations
 
 <span style="color: green;">Lunch</span>
