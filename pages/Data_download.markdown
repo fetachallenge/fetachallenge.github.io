@@ -48,33 +48,23 @@ In order to **access** the FeTA 2024 data from the Medical University of Vienna,
 Alternatively, if you can not access the form, you can also send the information directly to us via email at feta-challenge-data-vienna@googlegroups.com. **It is important that you send us this information from your institutional/company email address (i.e. NOT gmail.com/outlook.com/etc.)** with the subject line [FeTA2024 Vienna Data Application]. Please include the following information in the following format (i.e. - copy/paste the below text and fill in the required information):
 
 **Institutional information**
-Name of the Institute: 
-
-Department:
-
-Address of the Institute
-
-Street Name:
-
-ZIP Code:
-
-City:
-
-State (if applicable):
-
-Country:
+- Name of the Institute: 
+- Department:
+- Address of the Institute:
+- Street Name:
+- ZIP Code:
+- City:
+- State (if applicable):
+- Country:
 
 **Information about Recipient Scientist of the Data**
+- Title (if applicable): 
+- First Name:
+- Middle Name (if applicable): 
+- Last Name:
+- E-mail Address:
 
-Title (if applicable): 
-
-First Name:
-
-Middle Name (if applicable): 
-
-Last Name:
-
-E-mail Address:
+> If you have any questions regarding the access to the data from the Medical University of Vienne, please write to [feta-challenge-data-vienna@googlegroups.com](mailto:feta-challenge-data-vienna@googlegroups.com).
 
 ***
 ### 3. Information about FeTA 2024 Biometry:
@@ -84,7 +74,6 @@ Stand-alone biometry measurements (without SR T2w images or annotations) are als
 
 ***
 
-Please do not hesitate to write us if you have any questions:  feta-challenge-data-vienna@googlegroups.com.
-If there are any questions, please contact us at: [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com)
+> If you have any *general* questions regarding the downloading of the data, please contact us at: [feta-challenge@googlegroups.com](mailto:feta-challenge@googlegroups.com)
 
 ***
