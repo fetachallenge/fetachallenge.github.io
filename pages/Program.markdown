@@ -9,7 +9,7 @@ hero_image: /images/BannerFETA.png
 
 
 
-We are glad to announce that FeTA will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis) workshop. You can finf our temptative program for the workshop and challenge is here below.
+We are glad to announce that FeTA will be held jointly with the [PIPPI](https://pippiworkshop.github.io/) (Perinatal, Preterm and Paediatric Image analysis) workshop. You can find our temptative program for the workshop and challenge here below.
 
 <div style="text-align:center;">
     <div style="display:inline-block; margin-right: 20px;">
@@ -34,7 +34,7 @@ We are glad to announce that FeTA will be held jointly with the [PIPPI](https://
 ### Temptative program
 08:00 - 08:10 Welcome & Introduction
 
-08:10 - 09:00 <span style="color: pink;"> PIPPI</span></span> &<span style="color: orange;"> FeTA</span> Keynote
+08:10 - 09:00 <span style="color: pink;"> PIPPI</span> &<span style="color: orange;"> FeTA</span> Keynote
 
 09:00 - 10:00 <span style="color: pink;"> PIPPI</span> Oral Presentation Session and Q&A
 
@@ -44,7 +44,7 @@ We are glad to announce that FeTA will be held jointly with the [PIPPI](https://
 
 10:50 - 11:00 Intro to parallel poster sessions and <span style="color: pink;"> PIPPI</span> Best Paper Award
 
-<span style="color: orange;"> 11:00 - 11:10 FeTA Challenge overivew</span>
+<span style="color: orange;"> 11:00 - 11:10 FeTA Challenge overview</span>
 
 <span style="color: orange;"> 11:10 - 11:50 FeTA power pitch presentations by top teams</span>
 
