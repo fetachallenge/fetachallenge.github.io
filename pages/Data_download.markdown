@@ -16,9 +16,9 @@ FeTA dataset consist of data from multiple institutions, and therefore there are
 
 This data is the same as from FeTA 2021 and 2022. Access to the data **requires that you are a registered Synapse user** (and having accepted the [Synapse Terms and Conditions of Use](https://s3.amazonaws.com/static.synapse.org/governance/SageBionetworksSynapseTermsandConditionsofUse.pdf?v=5)) and **agree to the following terms and conditions**:
       
-* You provide the following information (otherwise your request will be rejected):
+* During the Synapse platform registration you provide the following information (otherwise your request will be rejected):
 	* a short description of your research project, 
-	* your name and academic affiliation during the Synapse platform registration.
+	* your name and academic affiliation.
       
 * You acknowledge that the owner of the Fetal Tissue Annotation Challenge Dataset available on Synapse is the University Children’s Hospital Zurich (super-resolution reconstructions and tissue labels) and the Lausanne University Hospital (biometry annotations).
 
@@ -78,7 +78,7 @@ E-mail Address:
 
 ***
 ### 3. Information about FeTA 2024 Biometry:
-Stand-alone biometry measurements (without SR T2w images nor annotations) are also stored in Zenodo:
+Stand-alone biometry measurements (without SR T2w images or annotations) are also stored in Zenodo:
 
 * Fetal Tissue Annotation Challenge (FeTA) Biometry - MICCAI 2024, T. Sanchez, Y. Gomez, R. Licandro, K. Payette, A. Jakab, M. Koob, M. Bach Cuadra, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11192452.svg)](https://doi.org/10.5281/zenodo.11192452)
 
