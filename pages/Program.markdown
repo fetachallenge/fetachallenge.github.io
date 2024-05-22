@@ -22,3 +22,34 @@ We are glad to announce that FeTA will be held jointly with the [PIPPI](https://
         </a>
     </div>
 </div>
+
+
+<h2 style="text-align: center;">PIPPI & FeTA 2024 Schedule</h2>
+
+<h3 style="text-align: center;">Marrakesh local time 
+6th October @Marrakesh PALMERAIE Convention Center</h3>
+
+
+
+### Temptative program
+08:00 - 08:10 Welcome & Introduction
+
+08:10 - 09:00 <span style="color: pink;"> PIPPI</span></span> &<span style="color: orange;"> FeTA</span> Keynote
+
+09:00 - 10:00 <span style="color: pink;"> PIPPI</span> Oral Presentation Session and Q&A
+
+10:00 - 10:30 <span style="color: green;"> Coffee break (all workshops) </span>
+
+10:30 - 10:50 <span style="color: pink;"> PIPPI</span> Spotlight Demonstation Talks
+
+10:50 - 11:00 Intro to parallel poster sessions and <span style="color: pink;"> PIPPI</span> Best Paper Award
+
+<span style="color: orange;"> 11:00 - 11:10 FeTA Challenge overivew</span>
+
+<span style="color: orange;"> 11:10 - 11:50 FeTA power pitch presentations by top teams</span>
+
+<span style="color: orange;"> 11:50 - 12:00 FeTA winners ceremony</span>
+
+12:00 - 13:30 Joint <span style="color: pink;"> PIPPI</span></span> & <span style="color: orange;"> FeTA</span> Poster Session & <span style="color: pink;"> PIPPI</span> Circle Demonstrations
+
+<span style="color: green;">Lunch</span>
