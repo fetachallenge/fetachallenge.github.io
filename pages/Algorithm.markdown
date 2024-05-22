@@ -6,16 +6,10 @@ show_sidebar: false
 hero_image: /images/BannerFETA.png
 ---
 
-{% include notification.html
-message="The updated guideline for FeTA 2024 will come out soon."
-icon="false"
-status="is-success" %}
-
-
 Algorithm Description Guidelines
-In addition to submitting a docker container, participants must submit a short description of their algorithm highlighting the main features by August 9, 2024. 
+In addition to submitting a docker container, participants must submit a short description of their algorithm highlighting the main features by August 12, 2024. 
 
-Please fill in the following form: [FeTA Challenge Algorithm Description Submission](https://www.synapse.org/Portal/filehandle?ownerId=syn25649159&ownerType=ENTITY&fileName=Algorithm_submission_instructions.docx&preview=false&wikiId=610007)
+Please fill in the following form: [FeTA Challenge Algorithm Description Submission](https://unils-my.sharepoint.com/:w:/g/personal/meritxell_bachcuadra_unil_ch/Ee8SkAh6LoNMqFlB5BUD7tABtUELTviEo4CrlpcvH7UHPg?e=JenG4Q)
 
 In addition to the above form, please provide a description of your model highlighting the main features. This description must include the following details (unless the parameter is not applicable for your model):
 
