@@ -39,7 +39,7 @@ For the biometry task, the training data will consist of biometric measurements 
 4. Length of the corpus callosum (LCC) in the sagittal plane
 5. Maximum transverse cerebellar diameter (TCD) in the coronal plane.
 
-The task will consist in predicting the **measurement** of the structures of interest from the super-resolution reconstructed images. The participants will be provided with a CSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed. The excepted output from your algorithm should be the length of each of the structures above in a CSV file.
+The task will consist in predicting the **measurement** of the structures of interest from the super-resolution reconstructed images. The participants will be provided with a TSV file containing the target measurements for each structure, a file with the corresponding landmark in the space of the image, as well as a transform to a re-oriented space where the measurements were performed. The excepted output from your algorithm should be the length of each of the structures above in a TSV or CSV file.
 
 **Note.** While the ranking will be based on the the measurements, we encourage the participants to include the landmarks of their predictions if their method performs them.
 
