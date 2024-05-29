@@ -61,11 +61,11 @@ status="is-success" %}
 
 **Q: During the testing of our model, will the information on the gestational age be used as input?**
 
-**A:** Yes, this information can be used by the model. To make it easy to access, the information is stored as a JSON file in the same subject folder named 'sub-[ID]_meta.json'.
+**A:** Yes, this information can be used by the model. It will be provided in the same way as in the training data (in the file `participants.tsv` for all test subjects with the same format and column names).
 
 **Q: During the testing phase, what will be the exact input and output of our model?**
 
-**A:** The input is the path to the data of one subject and the output is the segmentation map of the testing subject. Your Docker container will be run multiple times till all the subjects in the test data are evaluated.
+**A:** The inputs are: `t2w_image` path to a T2-weighted image (NifTi file), `participants` path to the `participants.tsv` file with the test subject information. Outputs are expected to be: the segmentation map of the fetal brain tissues saved in a NifTi image and (or) the biometry measurements saved in a csv file. Optionally you can also provide the predicted landmarks in a separate NifTi file. For all outputs we provide paths to where they should be saved. See [README](https://github.com/fetachallenge/fetachallengesubmission) for more details.
 
 **Q: Is there a limitation on the computation time?**
 
