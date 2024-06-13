@@ -69,7 +69,7 @@ status="is-success" %}
 
 **Q: Is there a limitation on the computation time?**
 
-**A:** There is no hard limit to the computation time. A reasonable time for evaluating your model on one case should not be longer than an hour.
+**A:** There is no hard limit to the computation time. A reasonable time for evaluating your model on one case should not be longer than 30 minutes.
 
 **Q: During the testing phase, will you run our submission on a computer with GPU? What GPUs are available?**
 
