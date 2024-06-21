@@ -25,7 +25,12 @@
 
 
     - name: Program
-      link: /pages/Program
+      link: /pages/Program_schedule
+      items:
+        - name: Schedule
+          link: /pages/Program_schedule
+        - name: Keynote
+          link: /pages/Program_keynote
 
     - name: Previous Challenges
       link: /pages/Previous
