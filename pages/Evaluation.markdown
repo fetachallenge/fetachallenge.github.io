@@ -15,7 +15,8 @@ Dice similarity coefficient (DSC) to measure the spatial overlap [1] [2].
 the 95th percentile of Hausdorff distance (HD95) to quantify the contour distance.  
 Volume similarity to measure the volume difference [1].
 the Euler characteristic (EC), defined k-dimensional Betti numbers to quantify topological correctness [3] [4]. 
- The implementations of DSC, VS, and HD95 can be found [**here**](https://github.com/Visceral-Project/EvaluateSegmentation). 
+The implementations of DSC and VS can be found [**here**](https://github.com/Visceral-Project
+ /EvaluateSegmentation), and HD95 can be found [**here**](https://github.com/google-deepmind/surface-distance).
 
 ## 1.2 Biometry task
 
