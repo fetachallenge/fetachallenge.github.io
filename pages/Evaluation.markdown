@@ -11,13 +11,15 @@ hero_image: /images/BannerFETA.png
 
 Four complementary evaluation metrics will be used to compute the rankings: 
 
-Dice similarity coefficient (DSC) to measure the spatial overlap [1] [2].
-the 95th percentile of Hausdorff distance (HD95) to quantify the contour distance.  
-Volume similarity to measure the volume difference [1].
-the Euler characteristic (EC), defined k-dimensional Betti numbers to quantify topological correctness [3] [4]. 
-The implementations of DSC and VS can be found [**here**](https://github.com/Visceral-Project
- /EvaluateSegmentation), and HD95 can be found [**here**](https://github.com/google-deepmind/surface-distance).
-
+- Dice similarity coefficient (DSC) to measure the spatial overlap [1] [2]. 
+- The 95th percentile of Hausdorff distance (HD95) to quantify the contour distance.  
+- Volume similarity to measure the volume difference [1].
+- The Euler characteristic (EC), defined k-dimensional Betti numbers to quantify topological correctness [3] [4].
+ 
+ 
+The implementations of DSC and VS can be found [**here**](https://github.com/Visceral-Project/EvaluateSegmentation
+), HD95 can be found [**here**](https://github.com/google-deepmind/surface-distance), and Betti number and EC can be found [**here**](https://github.com/smilell/Topology-Evaluation).
+ 
 ## 1.2 Biometry task
 
 The ranking will be based on the measurement error in percentage (ME) which is the difference between estimated measurement and the actual measurement in comparison to the actual measurement. 
