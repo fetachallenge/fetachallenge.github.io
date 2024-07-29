@@ -44,7 +44,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 * Data Release: 21st May 2024
 
-* Docker Submission Deadline <mark style="background-color: #FFFF00">  EXTENDED </mark> : ~31st July 2024~ <mark style="background-color: #FFFF00"> New date 4th August 2024 </mark>
+* Docker Submission Deadline <mark style="background-color: #FFFF00">  EXTENDED </mark> : ~~31st July 2024~~ <mark style="background-color: #FFFF00"> New date 4th August 2024 </mark>
 
 * Algorithm Description Deadline: 12th August 2024
 
