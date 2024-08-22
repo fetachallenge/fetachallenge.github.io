@@ -48,7 +48,7 @@ This year, FeTA challenge will be held jointly with the [PIPPI](https://pippiwor
 
 * Algorithm Description Deadline: 12th August 2024
 
-* Notification of Presentations to top teams: 22nd August 2024
+* Notification of Presentations to top teams <mark style="background-color: #FFFF00">  EXTENDED </mark>: ~~22nd August 2024~~ <mark style="background-color: #FFFF00"> New date 23th August 2024 </mark>
 
 * **FeTA 2024 Challenge Day: 6th Oct 2024**
 
