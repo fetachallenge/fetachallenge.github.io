@@ -53,7 +53,11 @@ hero_image: /images/BannerFETA.png
         <div class="image-description">Margaux Roulet<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br></div>
     </div>
 
-    
+    <div style="display:inline-block;">
+        <img src="/images/kaandM.jpg" alt="PIPPI" style="width:150px;height:auto;">
+        <div class="image-description">Misha Kaandorp<br>University Children's Hospital Zurich<br><br><br></div>
+    </div>
+
     <div style="display:inline-block;">
         <img src="/images/vladyslav_zalevskyi.png" alt="PIPPI" style="width:150px;height:auto;">
         <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br></div>
@@ -81,11 +85,6 @@ hero_image: /images/BannerFETA.png
     <div style="display:inline-block;">
         <img src="/images/jana.png" alt="PIPPI" style="width:150px;height:auto;">
         <div class="image-description">Jana Hutter<br>University Hospital Erlangen<br>King’s College London<br><br><br></div>
-    </div>
-
-    <div style="display:inline-block;">
-        <img src="/images/kaandM.jpg" alt="PIPPI" style="width:150px;height:auto;">
-        <div class="image-description">Misha Kaandorp<br>University Children's Hospital Zurich<br><br><br></div>
     </div>
     
 </div>
