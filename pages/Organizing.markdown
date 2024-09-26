@@ -58,10 +58,7 @@ hero_image: /images/BannerFETA.png
         <div class="image-description">Misha Kaandorp<br>University Children's Hospital Zurich<br><br><br></div>
     </div>
 
-    <div style="display:inline-block;">
-        <img src="/images/vladyslav_zalevskyi.png" alt="PIPPI" style="width:150px;height:auto;">
-        <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br></div>
-    </div>
+
     
 </div>
 
@@ -71,6 +68,11 @@ hero_image: /images/BannerFETA.png
         <div class="image-description">Thomas Sanchez<br>University of Lausanne<br>Lausanne University Hospital<br><br><br></div>
     </div>
 
+    <div style="display:inline-block;">
+        <img src="/images/vladyslav_zalevskyi.png" alt="PIPPI" style="width:150px;height:auto;">
+        <div class="image-description">Vladyslav Zalevskyi<br>University of Lausanne<br>Lausanne University Hospital<br><br><br><br></div>
+    </div>
+    
     <div style="display:inline-block; margin-right: 80px;">
         <img src="/images/liu_li.png" alt="feta" style="width:150px;height:auto;">
         <div class="image-description">Liu Li<br>Imperial College London<br><br><br><br></div>
