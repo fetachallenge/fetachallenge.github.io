@@ -82,6 +82,11 @@ hero_image: /images/BannerFETA.png
         <img src="/images/jana.png" alt="PIPPI" style="width:150px;height:auto;">
         <div class="image-description">Jana Hutter<br>University Hospital Erlangen<br>King’s College London<br><br><br></div>
     </div>
+
+    <div style="display:inline-block;">
+        <img src="/images/kaandM.jpg" alt="PIPPI" style="width:150px;height:auto;">
+        <div class="image-description">Misha Kaandorp<br>University Children's Hospital Zurich<br><br><br></div>
+    </div>
     
 </div>
 
