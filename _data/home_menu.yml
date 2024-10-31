@@ -32,6 +32,13 @@
         - name: Keynote
           link: /pages/Program_keynote
 
+    - name: Results
+      link: /pages/Results
+
+
+    - name: Slides
+      link: /pages/Presentations
+
     - name: Previous Challenges
       link: /pages/Previous
       items:
